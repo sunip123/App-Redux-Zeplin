@@ -8,11 +8,8 @@ This app was created during the React TypeScript Todo App and hosted in the link
 
 https://app.netlify.com/sites/dreamy-payne-a6ca3e/overview
 
-
 Clone and Run the App
 Clone the app:
-
-#github link
 https://github.com/sunip123/App-Redux-Zeplin.git
 cd  app-redux-zeplin
 Install dependencies: npm install 
