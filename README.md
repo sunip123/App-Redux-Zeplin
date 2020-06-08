@@ -13,8 +13,9 @@ Clone and Run the App
 Clone the app:
 
 #github link
+https://github.com/sunip123/App-Redux-Zeplin.git
 cd  app-redux-zeplin
-Install dependencies:
+Install dependencies: npm install 
 
 yarn
 Run the app:
